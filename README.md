@@ -1,4 +1,4 @@
-# Simulation of Natural Selection
+# The Weasel Program
 Proposed C++ implementation of Natural Selection as per Richard Dawkins in 'The Blind Watchmaker'
 
 In Richard Dawkins' famous book 'The Blind Watchmaker', he explains a simple yet powerful algorithmic way to illustrate evolution by natural selection.
