@@ -14,13 +14,13 @@ In my proposed implementation, the algorithm works in the following way:
   * Let S be the copy previously selected.
 * Display S.
 
-The programme also counts the number of generations required for mutations to reach their goal.
+The program also counts the number of generations required for mutations to reach their goal.
 
 I aim to improve this algorithm by prompting the user the phrase they want to reach.
 
 # Example
 
-Here was the resulting sequence for the string "THANK YOU VERY MUCH FOR YOUR ATTENTION PLEASE EXIT THE BUILDING" at X = 1,000,000 on my machine:
+Here is the resulting sequence for the string "THANK YOU VERY MUCH FOR YOUR ATTENTION PLEASE EXIT THE BUILDING" at X = 1,000,000 on my machine:
 
 ```
 1: O QN KDJQCILHGZFZIVJSYOSWQGFIXUSCJGNRBZMCYCMPUVQLKFXTGDHCVQWELX
